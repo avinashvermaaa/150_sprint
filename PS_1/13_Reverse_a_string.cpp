@@ -13,7 +13,6 @@ string reverse(string word){
 	}
 	
 	return word;
-	
 }
 
 
@@ -22,12 +21,9 @@ int main() {
 	string word;
 	cin>>word;
 	
-	
 	string reverse_word = reverse(word);
 	
 	cout<<reverse_word<<endl; 
-    
-
-    
+	
     return 69;
 }
