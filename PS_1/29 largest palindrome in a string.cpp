@@ -46,3 +46,24 @@ int main() {
     
     return 69;
 }
+
+
+/*
+testcases :- 
+
+avivanash
+ aviva
+
+babad
+ aba
+
+abba
+ abba
+
+baba
+ aba
+
+avinash
+ h
+
+*/
